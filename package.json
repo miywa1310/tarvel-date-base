@@ -5,7 +5,6 @@
   "scripts": {
     "start": "json-server --watch ./travels.json --port-3000 --host 0.0.0.0"
   },
-  "slug": "expo-template-bare",
   "keywords": [],
   "author": "",
   "license": "ISC",

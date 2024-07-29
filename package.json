@@ -5,6 +5,19 @@
   "scripts": {
     "start": "json-server --watch ./travels.json --port-3000 --host 0.0.0.0"
   },
+  "expo": {
+    "name": "booktime",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web" 
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",

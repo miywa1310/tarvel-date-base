@@ -5,35 +5,40 @@
             "name": "Paris",
             "country": "France",
             "description": "The city of lights and love.",
-            "image": "https://i.postimg.cc/WzjqGwtm/paris-2.jpg"
+            "image": "https://i.postimg.cc/WzjqGwtm/paris-2.jpg",
+            "slug": "paris"
         },
         {
             "id": 2,
             "name": "Tokyo",
             "country": "Japan",
             "description": "A bustling metropolis with a mix of traditional and modern culture.",
-            "image": "https://i.postimg.cc/FK8jLSjG/Tokyo-1.webp"
+            "image": "https://i.postimg.cc/FK8jLSjG/Tokyo-1.webp",
+            "slug": "tokyo"
         },
         {
             "id": 3,
             "name": "New York",
             "country": "USA",
             "description": "The city that never sleeps, known for its skyline and cultural diversity.",
-            "image": "https://i.postimg.cc/BZdV08kT/Statue-of-Liberty-Tour-6.jpg"
+            "image": "https://i.postimg.cc/BZdV08kT/Statue-of-Liberty-Tour-6.jpg",
+            "slug": "new-york"
         },
         {
             "id": 4,
             "name": "Sydney",
             "country": "Australia",
             "description": "Known for its stunning harbor and Opera House.",
-            "image": "https://i.postimg.cc/j2G93C0h/Sydney-3.jpg"
+            "image": "https://i.postimg.cc/j2G93C0h/Sydney-3.jpg",
+            "slug": "sydney"
         },
         {
             "id": 5,
             "name": "Rome",
             "country": "Italy",
             "description": "The Eternal City, rich in history and culture.",
-            "image": "https://i.postimg.cc/8k6VMVVb/Rome-1.jpg"
+            "image": "https://i.postimg.cc/8k6VMVVb/Rome-1.jpg",
+            "slug": "rome"
         }
     ],
     "offers": [
@@ -48,7 +53,8 @@
                 "https://i.postimg.cc/3R2D0crJ/paris-7.jpg",
                 "https://i.postimg.cc/Lsc1Xppb/paris-3.webp",
                 "https://i.postimg.cc/k56Sq5kS/paris-4.jpg"
-            ]
+            ],
+            "slug": "eiffel-tower-tour"
         },
         {
             "id": 102,
@@ -63,7 +69,8 @@
                 "https://i.postimg.cc/Y0wYXwDW/Louvre-Museum-5.jpg",
                 "https://i.postimg.cc/nVvvXCMY/Louvre-Museum-3.jpg",
                 "https://i.postimg.cc/pdpfrCnp/Louvre-Museum-8.jpg"
-            ]
+            ],
+            "slug": "louvre-museum-visit"
         },
         {
             "id": 201,
@@ -77,7 +84,8 @@
                 "https://i.postimg.cc/xjHPL6pm/Mount-Fuji-Day-Trip-2.jpg",
                 "https://i.postimg.cc/T1rqGP50/Mount-Fuji-Day-Trip-3.jpg",
                 "https://i.postimg.cc/Gm3JwdLP/Mount-Fuji-Day-Trip-1.webp"
-            ]
+            ],
+            "slug": "mount-fuji-day-trip"
         },
         {
             "id": 202,
@@ -91,7 +99,8 @@
                 "https://i.postimg.cc/wBvVJHnx/Tokyo-Disneyland-Ticket-2.jpg",
                 "https://i.postimg.cc/vZGXY5zV/Tokyo-Disneyland-Ticket-4.jpg",
                 "https://i.postimg.cc/25Kx7MfQ/Tokyo-Disneyland-Ticket-3.jpg"
-            ]
+            ],
+            "slug": "tokyo-disneyland-ticket"
         },
         {
             "id": 203,
@@ -105,7 +114,8 @@
                 "https://i.postimg.cc/fTcBQ8xs/Sushi-Making-Class-1.webp",
                 "https://i.postimg.cc/mkMVDwJQ/Sushi-Making-Class-3.jpg",
                 "https://i.postimg.cc/MGP9rX1j/Sushi-Making-Class-5.webp"
-            ]
+            ],
+            "slug": "sushi-making-class"
         },
         {
             "id": 301,
@@ -119,7 +129,8 @@
                 "https://i.postimg.cc/0QzVgxCX/Statue-of-Liberty-Tour-1.jpg",
                 "https://i.postimg.cc/8PMnPpgq/Statue-of-Liberty-Tour-3.jpg",
                 "https://i.postimg.cc/pLvcmw2y/Statue-of-Liberty-Tour-5.jpg"
-            ]
+            ],
+            "slug": "statue-of-liberty-tour"
         },
         {
             "id": 302,
@@ -133,7 +144,8 @@
                 "https://i.postimg.cc/YCbKN6q6/Top-of-the-Rock-Observation-6.jpg",
                 "https://i.postimg.cc/j2JPcShK/Top-of-the-Rock-Observation-Deck-3.jpg",
                 "https://i.postimg.cc/HWJhR0ZW/Top-of-the-Rock-Observation-Deck-1.jpg"
-            ]
+            ],
+            "slug": "top-of-the-rock-observation-deck"
         },
         {
             "id": 401,
@@ -148,7 +160,8 @@
                 "https://i.postimg.cc/4yCqBmTQ/Sydney-Opera-House-Tour-2.avif",
                 "https://i.postimg.cc/9Mwsdysf/Sydney-Opera-House-Tour-4.jpg",
                 "https://i.postimg.cc/2y4JJrkR/Sydney-Opera-House-Tour-3.jpg"
-            ]
+            ],
+            "slug": "sydney-opera-house-tour"
         },
         {
             "id": 402,
@@ -163,7 +176,8 @@
                 "https://i.postimg.cc/2SzpsbLH/Sydney-Harbour-Cruise-2.jpg",
                 "https://i.postimg.cc/YCbcMr1t/Sydney-Harbour-Cruise-3.webp",
                 "https://i.postimg.cc/RVxxTbSx/Sydney-Harbour-Cruise-5.jpg"
-            ]
+            ],
+            "slug": "sydney-harbour-cruise"
         },
         {
             "id": 501,
@@ -178,7 +192,8 @@
                 "https://i.postimg.cc/0Q61VTKP/Colosseum-Tour-1.jpg",
                 "https://i.postimg.cc/KzdSw0tL/Colosseum-Tour-2.jpg",
                 "https://i.postimg.cc/QdbDCkrG/Colosseum-Tour-6.jpg"
-            ]
+            ],
+            "slug": "colosseum-tour"
         },
         {
             "id": 502,
@@ -192,7 +207,8 @@
                 "https://i.postimg.cc/bw88qVW9/Vatican-Museums-Visit-1.jpg",
                 "https://i.postimg.cc/NFrCXY92/Vatican-Museums-Visit-4.jpg",
                 "https://i.postimg.cc/HsbdD1ZL/Vatican-Museums-Visit-6.webp"
-            ]
+            ],
+            "slug": "vatican-museums-visit"
         },
         {
             "id": 503,
@@ -202,12 +218,12 @@
             "price": 245,
             "details": "A tour of the iconic Trevi Fountain, including its history and significance in Roman culture. Discover the fascinating stories behind this famous landmark and enjoy a guided exploration of the surrounding area.",
             "images": [
-                "https: //i.postimg.cc/nhLwJ6pm/Trevi-Fountain-Tour-1.webp",
-                "https: //i.postimg.cc/mZQnNYmP/Trevi-Fountain-Tour-2.jpg",
-                "https: //i.postimg.cc/kGFhJC2Q/Trevi-Fountain-Tour-3.jpg",
-                "https: //i.postimg.cc/DynMCSNB/Trevi-Fountain-Tour-4.jpg",
-                "https: //i.postimg.cc/gksB1YFd/Trevi-Fountain-Tour-5.jpg"
-            ]
+                "https://i.postimg.cc/mZQnNYmP/Trevi-Fountain-Tour-2.jpg",
+                "https://i.postimg.cc/kGFhJC2Q/Trevi-Fountain-Tour-3.jpg",
+                "https://i.postimg.cc/DynMCSNB/Trevi-Fountain-Tour-4.jpg",
+                "https://i.postimg.cc/gksB1YFd/Trevi-Fountain-Tour-5.jpg"
+            ],
+            "slug": "trevi-fountain-tour"
         }
     ],
     "users" : [
